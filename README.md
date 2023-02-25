@@ -1,5 +1,13 @@
 # OctoPrint GPIO Control
 
+This is Plugowski's port of catgiggle's GPIO Control with a shim by oldmanbluntz to use the FT232H USB Breakout Board with standard RPi.GPIO code. The original plugin is here.
+
+https://github.com/catgiggle/OctoPrint-GpioControl
+
+Plugowski's is here, it fixes a few issues with the on and off button.
+
+https://github.com/plugowski/OctoPrint-GpioControl
+
 GPIO Control adds a sidebar with on/off buttons. You can add as many buttons as you want that will control each device connected to your Raspberry Pi.
 
 Very useful if you want to add some electronic/improvements to your printer.
