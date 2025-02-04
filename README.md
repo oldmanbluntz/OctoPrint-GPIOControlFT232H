@@ -20,7 +20,7 @@ Very useful if you want to add some electronic/improvements to your printer.
 Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
 or manually using this URL:
 
-    https://github.com/catgiggle/OctoPrint-GpioControl/archive/master.zip
+    https://github.com/oldmanbluntz/OctoPrint-GPIOControlFT232H/archive/master.zip
 
 ## Configuration
 
